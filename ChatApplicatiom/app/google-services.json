@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185270056563",
+    "project_id": "chat-application-835fe",
+    "storage_bucket": "chat-application-835fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185270056563:android:198c77b16e59f06b4b9c06",
+        "android_client_info": {
+          "package_name": "com.madura.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185270056563-8ok7c8tp258gbtr3156pvjac7i1ur0j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-WYJtpJkbPHZlx-hYTconb6VJVAwC7_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185270056563-8ok7c8tp258gbtr3156pvjac7i1ur0j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
